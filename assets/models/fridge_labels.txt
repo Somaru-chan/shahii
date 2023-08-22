@@ -1,0 +1,36 @@
+0 Banana
+1 Bread
+2 Eggs
+3 Milk
+4 Mixed Items
+5 Potato
+6 Spinach
+7 Tomato
+8 Cucumber
+9 Carrot
+10 Bell Pepper
+11 Cabbage
+12 Cauliflower
+13 Corn
+14 Eggplants
+15 Garlic
+16 Ginger
+17 Peas
+18 Sweet Potato
+19 Turnip
+20 Onion
+21 Lemon
+22 Jalepeno
+23 Apple
+24 Beetroot
+25 Grapes
+26 Kiwi
+27 Lettuce
+28 Mango
+29 Orange
+30 Pear
+31 Pineapple
+32 Pomegranate
+33 Watermelon
+34 Cheese
+35 Mayonnaise
